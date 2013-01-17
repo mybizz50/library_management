@@ -8,8 +8,8 @@ class filemanager{
 		filemanager(){
 			
 		}
-		void _open(string &a){
-		f.open(a.c_str(),);	
+		int add_book(int serial,char &book_name, char &author, char &edition){
+					
 		}
 		
 		
